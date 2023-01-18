@@ -1,6 +1,6 @@
 # setkch-wrapper-start-js
 
-![demo animation loop](./demo.gif)
+<img src="./demo.gif" width=600 height=600>
 
 This repository contains the minimal example and the bundler setup (with Vitejs) to work as a starter code for using [`sketch-wrapper`](https://github.com/cdaein/sketch-wrapper).
 
