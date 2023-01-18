@@ -6,7 +6,7 @@ Check out the sketch-wrapper repository for more information on what `settings` 
 
 ## How To
 
-1. First, download or clone this repo into your computer
+1. First, download or clone this repo into your computer. (In Github, you can click on Use This Template button.)
 1. In your Command Line (Terminal) app, `cd` into the downloaded directory.
 1. Run `npm install`. You will need to have [Node.js](https://nodejs.org/en/) installed on your computer.
 1. Run `npm start` to start the local server.
