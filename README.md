@@ -1,5 +1,7 @@
 # setkch-wrapper-start-js
 
+![demo animation loop](./demo.gif)
+
 This repository contains the minimal example and the bundler setup (with Vitejs) to work as a starter code for using [`sketch-wrapper`](https://github.com/cdaein/sketch-wrapper).
 
 Check out the sketch-wrapper repository for more information on what `settings` and `props` you can use and how to save image and video of your canvas, etc.
