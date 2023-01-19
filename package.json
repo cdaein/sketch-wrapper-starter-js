@@ -12,8 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "@daeinc/color": "^0.2.4",
-    "@daeinc/draw": "^0.2.1",
-    "@daeinc/math": "^0.4.0",
+    "@daeinc/draw": "^0.3.0",
+    "@daeinc/math": "^0.5.0",
     "@daeinc/sketch-wrapper": "^0.10.6"
   },
   "devDependencies": {
