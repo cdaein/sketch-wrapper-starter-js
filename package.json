@@ -14,7 +14,7 @@
     "@daeinc/color": "^0.2.4",
     "@daeinc/draw": "^0.4.0",
     "@daeinc/math": "^0.5.0",
-    "@daeinc/sketch-wrapper": "^0.10.8"
+    "@daeinc/sketch-wrapper": "^0.11.0"
   },
   "devDependencies": {
     "vite": "^4.0.4"
