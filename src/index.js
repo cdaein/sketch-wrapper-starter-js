@@ -45,12 +45,13 @@ const sketch = ({ context: ctx, width, height }) => {
 
 const settings = {
   mode: "2d",
-  // dimensions: [1200, 1200],
+  dimensions: [800, 800],
   pixelRatio: window.devicePixelRatio,
   animate: true,
   duration: 1_000, // 1 second loop
   playFps: fps,
   exportFps: fps,
+  framesFormat: ["gif", "webm"],
 };
 
 sketchWrapper(sketch, settings);
